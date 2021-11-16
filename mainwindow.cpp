@@ -46,8 +46,6 @@ MainWindow::MainWindow(QWidget *parent)
     ui->rvLabel->hide();
 
 
-
-
 }
 
 MainWindow::~MainWindow()
